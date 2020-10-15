@@ -34,5 +34,9 @@ python leapYearChecker.py
 Email : sandip.sendme@gmail.com
 
 ---
+### Suggestions for future upgrade
+- Use Live API
+- Use Django api at backend
+---
 ### Sponsors
 <a href="https://www.youtube.com/channel/UCrgmUws8p-fPcIFZJsdenaQ"><img src = "bongtuts.jpg" alt="Bongtuts" width = "60px"></a>
